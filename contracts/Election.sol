@@ -29,7 +29,7 @@ contract Election {
 
         voters[msg.sender] = true;
 
-        candidates[_candidateID].votecount++;
+        candidates[_candidateID].votecount++; 
         
     }
 
