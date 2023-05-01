@@ -1,6 +1,6 @@
 {
   "contractName": "Election",
-  "abi": [
+  "abi":  [
     {
       "inputs": [],
       "payable": false,
